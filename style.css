@@ -1,0 +1,12 @@
+body{
+    background-color: antiquewhite;
+}
+button
+{
+    background-color: aliceblue;
+    margin-right: 500px;
+    border: 1px;
+    width: 50px;
+    border-color: rgb(236, 147, 147);
+    border-radius: 50px;
+}
